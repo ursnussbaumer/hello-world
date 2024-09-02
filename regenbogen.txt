@@ -1,3 +1,4 @@
 Die Farben des Regenbogens sind: 
 - gelb
 - blau 
+- orange
